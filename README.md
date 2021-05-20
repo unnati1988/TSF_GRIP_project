@@ -8,7 +8,7 @@
 -<b>The Sparks foundation</b> for the <i> May 2021 </i> batch.
 
 
-<h2>✔TSF GRIP Task</h2>
+<h2>✔TSF GRIP Task- Payment Integration Gateway</h2>
 
 ✨ Create a simple website where payment gateway is integrated.<br><br>
 ✨ There will be a simple donate button on homepage. On clicking
