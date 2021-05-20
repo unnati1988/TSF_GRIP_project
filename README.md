@@ -30,3 +30,8 @@ This project scrpit is written using HTML, CSS and Javascript.
 <h2>✔Check the working Website Live here!(desktop view)</h2>
 https://unnati1988.github.io/TSF_GRIP_project/
 
+
+
+
+
+<h1> THANK YOU </h1>
